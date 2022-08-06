@@ -1,3 +1,5 @@
+// Copyright (c) 2022 SkyPoly
+
 const express = require("express");
 const app = express();
 
